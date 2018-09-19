@@ -1,0 +1,263 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:02:11] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 9
+INFO:root:Имя: <FileStorage: 'Снимок экрана (1).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:02:20] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:02:20] "GET /uploads/9.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:14:11] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:14:19] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:14:19] "GET /uploads/6.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:16:59] "GET /uploads/ HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:17:04] "GET /uploads HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:17:10] "GET /uploads/2 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:17:18] "GET /uploads/2.jpg HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:18:05] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 6
+INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:18:11] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:18:11] "GET /uploads/9.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:18:53] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 7
+INFO:root:Имя: <FileStorage: 'Снимок экрана (63).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (64).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (65).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (66).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (67).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (68).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (69).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:01] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:01] "GET /uploads/69.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:23] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 34
+INFO:root:Имя: <FileStorage: 'Снимок экрана (1).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (43).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (44).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (45).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (46).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (47).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (48).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (49).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (50).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (51).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (52).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (53).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (54).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (55).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (56).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (60).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (61).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (62).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (63).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (64).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (65).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (66).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (67).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (68).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (69).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:34] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:34] "GET /uploads/69.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:22:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:22:27] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 9
+INFO:root:Имя: <FileStorage: 'Снимок экрана (1).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:22:35] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:22:35] "GET /uploads/9.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:25:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:25:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:24:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:24:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:25:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:25:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:26:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:26:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:28:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:28:57] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:28:57] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:28:57] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:28:57] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:28:57] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:28:57] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:30:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:30:34] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:30:34] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:30:34] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:30:34] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:30:34] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:30:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:34:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:34:43] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:34:43] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:34:43] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:34:43] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:34:43] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:34:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:35:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:35:51] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:35:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:35:51] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:35:51] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:35:51] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:35:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:36:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:36:55] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:37:04] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:37:04] "GET /uploads/4.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:38:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:38:47] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:38:47] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:38:47] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:38:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:38:47] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:38:47] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:47:06] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:47:12] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:47:12] "GET /uploads/5.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:47:22] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 0
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2018 12:53:50] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 5
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2018 12:54:05] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2018 12:54:05] "GET /uploads/9.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2018 12:59:41] "GET /predict/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
