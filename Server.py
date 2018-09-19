@@ -14,6 +14,6 @@ while True:
     question = input('отправить значения ')
     if question != 'n':
         print(question)
-        conn.send(byte(question))
+        conn.send(bytes(question, encoding='utf-8'))
     
 sock.close()

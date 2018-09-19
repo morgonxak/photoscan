@@ -32,7 +32,7 @@ def creatProject(project_path, project_name):
     :param project_name: Имя проекта
     :return: Chunk
     '''
-    doc = PhotoScan.app.document()
+    doc = PhotoScan.app.document
     doc.save(project_path + project_name + ".psx")
     if len(doc.chunks):
         chunk = PhotoScan.app.document.chunk
@@ -180,6 +180,8 @@ class ConnectServer(Thread):
             #dispatch(data)
             if data == b'stop':
                 break
+            if data == b'creat':
+                creatProject(r"D:\dimaProject\photoscan\processing_photoscan\ID_1", "test")
         sock.close()
         print("соеденения закрыто")
 
