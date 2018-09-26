@@ -21,11 +21,12 @@ def upload_file():
         log.info("Добовления изображения количества: "+str(len(listFile)))
         for file in listFile:
             log.info("Имя: "+str(file))
-
             if file and allowed_file(file.filename):
                 filename = secure_filename(file.filename)
                 file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
         return redirect(url_for('uploaded_file', filename=filename))
+
+    #print(app.config['settings_obj'].change('ID', app.config['ID']))
 
     return render_template("index.html")
 
