@@ -7,16 +7,16 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 242-154-241
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:02:11] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 9
-INFO:root:Имя: <FileStorage: 'Снимок экрана (1).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 9
+INFO:root:???: <FileStorage: '?????? ?????? (1).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (2).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (3).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (4).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (5).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (6).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (7).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (8).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (9).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:02:20] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:02:20] "GET /uploads/9.png HTTP/1.1" 200 -
 INFO:werkzeug: * Restarting with stat
@@ -34,8 +34,8 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 242-154-241
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:14:11] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 1
-INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 1
+INFO:root:???: <FileStorage: '?????? ?????? (6).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:14:19] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:14:19] "GET /uploads/6.png HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:16:59] "GET /uploads/ HTTP/1.1" 404 -
@@ -48,62 +48,62 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 242-154-241
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:18:05] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 6
-INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 6
+INFO:root:???: <FileStorage: '?????? ?????? (4).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (5).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (6).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (7).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (8).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (9).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:18:11] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:18:11] "GET /uploads/9.png HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:18:53] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 7
-INFO:root:Имя: <FileStorage: 'Снимок экрана (63).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (64).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (65).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (66).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (67).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (68).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (69).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 7
+INFO:root:???: <FileStorage: '?????? ?????? (63).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (64).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (65).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (66).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (67).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (68).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (69).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:01] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:01] "GET /uploads/69.png HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:23] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 34
-INFO:root:Имя: <FileStorage: 'Снимок экрана (1).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (43).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (44).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (45).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (46).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (47).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (48).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (49).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (50).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (51).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (52).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (53).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (54).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (55).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (56).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (60).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (61).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (62).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (63).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (64).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (65).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (66).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (67).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (68).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (69).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 34
+INFO:root:???: <FileStorage: '?????? ?????? (1).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (2).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (3).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (4).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (5).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (6).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (7).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (8).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (9).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (10).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (43).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (44).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (45).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (46).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (47).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (48).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (49).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (50).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (51).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (52).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (53).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (54).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (55).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (56).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (60).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (61).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (62).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (63).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (64).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (65).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (66).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (67).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (68).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (69).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:34] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:19:34] "GET /uploads/69.png HTTP/1.1" 200 -
 INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
@@ -118,16 +118,16 @@ INFO:werkzeug: * Debugger PIN: 242-154-241
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:22:24] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:22:27] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 9
-INFO:root:Имя: <FileStorage: 'Снимок экрана (1).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 9
+INFO:root:???: <FileStorage: '?????? ?????? (1).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (2).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (3).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (4).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (5).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (6).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (7).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (8).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (9).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:22:35] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:22:35] "GET /uploads/9.png HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 16:25:08] "GET / HTTP/1.1" 200 -
@@ -192,8 +192,8 @@ INFO:werkzeug: * Debugger PIN: 242-154-241
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:36:54] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:36:55] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 1
-INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 1
+INFO:root:???: <FileStorage: '?????? ?????? (4).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:37:04] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:37:04] "GET /uploads/4.png HTTP/1.1" 200 -
 INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
@@ -220,12 +220,12 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 242-154-241
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:47:06] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 1
-INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 1
+INFO:root:???: <FileStorage: '?????? ?????? (5).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:47:12] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:47:12] "GET /uploads/5.png HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:47:22] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 0
+INFO:root:?????????? ??????????? ??????????: 0
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "POST / HTTP/1.1" 500 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [18/Sep/2018 17:48:08] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
@@ -247,12 +247,12 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 242-154-241
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [19/Sep/2018 12:53:50] "GET / HTTP/1.1" 200 -
-INFO:root:Добовления изображения количества: 5
-INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
-INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:?????????? ??????????? ??????????: 5
+INFO:root:???: <FileStorage: '?????? ?????? (5).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (6).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (7).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (8).png' ('image/png')>
+INFO:root:???: <FileStorage: '?????? ?????? (9).png' ('image/png')>
 INFO:werkzeug:127.0.0.1 - - [19/Sep/2018 12:54:05] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [19/Sep/2018 12:54:05] "GET /uploads/9.png HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [19/Sep/2018 12:59:41] "GET /predict/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
@@ -332,3 +332,761 @@ INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 177-788-206
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 10:29:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 10:29:38] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:root:Добовления изображения количества: 15
+INFO:root:Имя: <FileStorage: 'Снимок экрана (1).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (11).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (12).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (13).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (14).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (15).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 10:30:21] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 10:30:21] "GET /uploads/15.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 10:41:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 8
+INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 12:10:00] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 12:10:00] "GET /uploads/9.png HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 12:25:05] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 6
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (11).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (12).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (13).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (14).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 12:27:13] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 12:27:13] "GET /uploads/14.png HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:04:47] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 8
+INFO:root:Имя: <FileStorage: 'Снимок экрана (60).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (61).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (62).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (63).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (64).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (65).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (66).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (67).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:05:06] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 5
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (11).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (12).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (13).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:06:06] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 5
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (11).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (12).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (13).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:07:16] "POST / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 5
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (11).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (12).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (13).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:07:31] "POST / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 5
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (11).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (12).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (13).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:08:02] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:29:31] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 6
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (11).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (12).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (13).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:29:42] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:29:42] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:30:05] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:33:57] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:34:19] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:38:07] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:40:13] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:40:13] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:40:13] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:40:13] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:40:13] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:40:13] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:40:13] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:21] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:21] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:21] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:21] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:21] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:21] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:21] "GET /info/%7B%27name%27:%20%27sddf%27%2C%20%27mail%27:%20%27ds%27%2C%20%27lenPhoto%27:%206%7D?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:29] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 6
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (9).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (10).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (11).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (12).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (13).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:33] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:41:33] "GET /info/%7B%22name%22:%20%22sddf%22%2C%20%22mail%22:%20%22ds%22%2C%20%22lenPhoto%22:%206%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:43:38] "GET /info/%7B%22name%22:%20%22sddf%22%2C%20%22mail%22:%20%22ds%22%2C%20%22lenPhoto%22:%206%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:43:40] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 7
+INFO:root:Имя: <FileStorage: 'Снимок экрана (2).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (3).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (4).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (5).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (6).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (7).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (8).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:44:14] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:44:14] "GET /info/%7B%22name%22:%20%22%5Cu0432%5Cu0430%5Cu0448%5Cu0430%5Cu043d%22%2C%20%22mail%22:%20%22%5Cu044b%5Cu0432%5Cu044b%22%2C%20%22lenPhoto%22:%207%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:44:23] "GET /info/%7B%22name%22:%20%22%5Cu0432%5Cu0430%5Cu0448%5Cu0430%5Cu043d%22%2C%20%22mail%22:%20%22%5Cu044b%5Cu0432%5Cu044b%22%2C%20%22lenPhoto%22:%207%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:44:26] "GET /info/%7B%22name%22:%20%22%5Cu0432%5Cu0430%5Cu0448%5Cu0430%5Cu043d%22%2C%20%22mail%22:%20%22%5Cu044b%5Cu0432%5Cu044b%22%2C%20%22lenPhoto%22:%207%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:44:28] "GET /info/%7B%22name%22:%20%22%5Cu0432%5Cu0430%5Cu0448%5Cu0430%5Cu043d%22%2C%20%22mail%22:%20%22%5Cu044b%5Cu0432%5Cu044b%22%2C%20%22lenPhoto%22:%207%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:44:28] "GET /info/%7B%22name%22:%20%22%5Cu0432%5Cu0430%5Cu0448%5Cu0430%5Cu043d%22%2C%20%22mail%22:%20%22%5Cu044b%5Cu0432%5Cu044b%22%2C%20%22lenPhoto%22:%207%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:44:29] "GET /info/%7B%22name%22:%20%22%5Cu0432%5Cu0430%5Cu0448%5Cu0430%5Cu043d%22%2C%20%22mail%22:%20%22%5Cu044b%5Cu0432%5Cu044b%22%2C%20%22lenPhoto%22:%207%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 13:44:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 228
+INFO:root:Имя: <FileStorage: 'DJI_0001.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0002.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0003.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0004.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0005.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0006.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0012.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0013.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0014.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0015.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0016.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0017.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0018.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0019.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0020.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0021.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0022.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0023.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0024.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0025.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0026.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0027.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0028.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0029.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0030.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0031.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0032.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0033.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0034.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0035.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0036.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0037.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0038.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0039.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0040.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0041.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0042.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0043.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0044.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0045.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0046.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0047.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0048.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0049.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0050.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0051.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0052.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0053.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0054.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0055.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0056.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0057.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0058.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0059.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0060.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0061.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0062.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0063.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0064.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0065.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0066.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0067.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0068.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0069.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0070.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0071.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0072.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0073.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0074.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0075.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0076.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0077.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0078.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0079.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0080.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0081.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0082.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0083.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0084.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0085.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0086.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0087.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0088.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0089.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0090.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0091.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0092.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0093.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0094.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0095.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0096.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0097.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0098.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0099.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0100.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0101.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0102.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0103.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0104.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0105.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0106.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0107.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0108.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0109.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0110.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0111.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0112.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0113.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0114.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0115.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0116.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0117.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0118.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0119.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0120.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0121.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0122.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0123.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0124.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0125.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0126.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0127.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0128.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0129.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0130.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0131.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0132.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0133.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0134.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0135.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0136.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0137.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0138.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0139.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0140.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0141.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0142.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0143.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0144.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0145.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0146.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0147.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0148.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0149.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0150.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0151.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0152.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0153.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0154.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0155.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0156.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0157.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0158.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0159.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0160.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0161.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0162.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0163.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0164.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0165.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0166.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0167.MOV' ('video/quicktime')>
+INFO:root:Имя: <FileStorage: 'DJI_0168.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0169.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0170.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0171.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0172.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0173.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0174.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0175.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0176.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0177.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0178.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0179.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0180.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0181.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0182.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0183.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0184.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0185.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0186.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0187.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0188.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0189.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0190.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0191.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0192.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0193.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0194.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0195.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0196.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0197.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0198.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0199.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0200.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0201.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0202.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0203.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0204.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0205.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0206.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0207.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0208.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0209.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0210.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0211.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0212.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0213.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0214.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0215.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0216.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0217.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0218.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0219.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0220.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0221.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0222.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0223.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0224.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0225.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0226.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0227.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0228.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 14:28:16] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 14:28:16] "GET /info/%7B%22name%22:%20%22test%22%2C%20%22mail%22:%20%22test%40test%40ru%22%2C%20%22lenPhoto%22:%20228%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 14:30:32] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 14:31:09] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 14:31:09] "GET /info/%7B%22name%22:%20%22%5Cu0414%5Cu0438%5Cu043c%5Cu0430%22%2C%20%22mail%22:%20%22ds%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 14:33:30] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 14:33:39] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 14:33:39] "GET /info/%7B%22name%22:%20%22sddf%22%2C%20%22mail%22:%20%22Cmit.dima%40gmail.com%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:05:09] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:05:25] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:05:25] "GET /info/%7B%22name%22:%20%22sddf%22%2C%20%22mail%22:%20%22s%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:06:22] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 4
+INFO:root:Имя: <FileStorage: 'Снимок экрана (14).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (15).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (16).png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'Снимок экрана (17).png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:06:39] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:06:39] "GET /info/%7B%22name%22:%20%22%5Cu0414%5Cu0438%5Cu043c%5Cu0430%22%2C%20%22mail%22:%20%22Cmit.dima%40gmail.com%22%2C%20%22lenPhoto%22:%204%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\photoscan\\config.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:10:02] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 12
+INFO:root:Имя: <FileStorage: 'DJI_0002.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0003.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0004.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0005.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0006.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0012.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0013.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:10:20] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:10:20] "GET /info/%7B%22name%22:%20%22dds%22%2C%20%22mail%22:%20%22sd%22%2C%20%22lenPhoto%22:%2012%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:13:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:13:14] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 228
+INFO:root:Имя: <FileStorage: 'DJI_0001.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0002.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0003.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0004.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0005.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0006.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0012.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0013.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0014.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0015.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0016.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0017.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0018.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0019.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0020.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0021.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0022.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0023.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0024.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0025.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0026.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0027.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0028.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0029.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0030.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0031.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0032.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0033.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0034.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0035.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0036.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0037.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0038.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0039.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0040.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0041.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0042.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0043.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0044.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0045.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0046.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0047.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0048.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0049.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0050.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0051.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0052.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0053.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0054.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0055.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0056.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0057.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0058.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0059.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0060.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0061.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0062.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0063.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0064.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0065.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0066.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0067.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0068.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0069.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0070.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0071.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0072.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0073.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0074.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0075.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0076.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0077.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0078.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0079.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0080.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0081.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0082.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0083.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0084.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0085.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0086.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0087.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0088.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0089.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0090.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0091.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0092.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0093.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0094.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0095.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0096.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0097.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0098.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0099.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0100.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0101.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0102.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0103.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0104.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0105.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0106.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0107.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0108.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0109.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0110.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0111.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0112.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0113.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0114.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0115.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0116.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0117.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0118.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0119.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0120.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0121.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0122.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0123.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0124.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0125.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0126.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0127.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0128.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0129.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0130.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0131.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0132.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0133.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0134.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0135.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0136.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0137.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0138.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0139.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0140.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0141.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0142.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0143.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0144.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0145.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0146.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0147.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0148.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0149.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0150.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0151.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0152.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0153.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0154.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0155.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0156.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0157.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0158.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0159.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0160.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0161.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0162.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0163.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0164.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0165.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0166.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0167.MOV' ('video/quicktime')>
+INFO:root:Имя: <FileStorage: 'DJI_0168.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0169.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0170.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0171.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0172.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0173.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0174.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0175.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0176.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0177.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0178.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0179.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0180.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0181.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0182.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0183.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0184.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0185.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0186.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0187.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0188.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0189.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0190.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0191.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0192.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0193.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0194.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0195.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0196.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0197.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0198.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0199.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0200.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0201.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0202.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0203.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0204.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0205.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0206.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0207.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0208.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0209.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0210.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0211.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0212.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0213.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0214.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0215.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0216.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0217.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0218.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0219.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0220.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0221.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0222.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0223.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0224.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0225.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0226.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0227.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0228.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:14:47] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 15:14:47] "GET /info/%7B%22name%22:%20%22test2%22%2C%20%22mail%22:%20%22test%40test.ru%22%2C%20%22lenPhoto%22:%20228%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:10:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:11:04] "GET /info/%7B%22name%22:%20%22test2%22%2C%20%22mail%22:%20%22test%40test.ru%22%2C%20%22lenPhoto%22:%20228%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:11:57] "GET /info/%7B%22name%22:%20%22dds%22%2C%20%22mail%22:%20%22sd%22%2C%20%22lenPhoto%22:%2012%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 16:12:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2018 17:19:57] "GET /info/%7B%22name%22:%20%22%5Cu0414%5Cu0438%5Cu043c%5Cu0430%22%2C%20%22mail%22:%20%22Cmit.dima%40gmail.com%22%2C%20%22lenPhoto%22:%204%7D HTTP/1.1" 200 -
