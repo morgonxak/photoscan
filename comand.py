@@ -219,12 +219,12 @@ class ConnectServer(Thread):
         print(message)
         self.sendMessage(message)
 
-        buildModel(self.chunk, self.doc)  #Строим модель
+        #buildModel(self.chunk, self.doc)  #Строим модель
         message = "Построения модели -- OK"
         print(message)
         self.sendMessage(message)
 
-        buildDEM(self.chunk, self.doc)  #Строим Цифровую модель рельефа
+        #buildDEM(self.chunk, self.doc)  #Строим Цифровую модель рельефа
         message = "Построения рельефа -- OK"
         print(message)
         self.sendMessage(message)
@@ -235,7 +235,7 @@ class ConnectServer(Thread):
         self.sendMessage(message)
 
         ##кспортируем все по папкам
-        exportDem(self.chunk, PATH_DIR + '\/' + data["ID_User"]+'\/'+'DEM' + '\/', 'DEM')
+        #exportDem(self.chunk, PATH_DIR + '\/' + data["ID_User"]+'\/'+'DEM' + '\/', 'DEM')
         message = "Экспорт DEM -- OK"
         print(message)
         self.sendMessage(message)

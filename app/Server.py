@@ -51,17 +51,18 @@ class socketServer(Thread):
     def runArcGis(self):
         pass
 
-host = 'localhost'
-port = 777
-addr = (host, port)
+if __name__ == "__main__":
+    host = 'localhost'
+    port = 777
+    addr = (host, port)
 
-dictParameters = dict()
-dictParameters['ID_User'] = 'ID_1'
+    dictParameters = dict()
+    dictParameters['ID_User'] = 'ID_1'
 
 
-test = socketServer(addr)
-test.runServer()
-q = input()
-#Отправляем команду на запуск с параметрами
-test.run(dictParameters)
+    test = socketServer(addr)
+    test.runServer()
+    q = input()
+    #Отправляем команду на запуск с параметрами
+    test.run(dictParameters)
 

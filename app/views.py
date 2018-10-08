@@ -12,13 +12,21 @@ def allowed_file(filename):
            filename.rsplit('.', 1)[1] in app.config['ALLOWED_EXTENSIONS']
 
 
+
+def serverFotoScan(UserID):
+
+    dictParameters = dict()
+    dictParameters['ID_User'] = UserID
+
+    # Отправляем команду на запуск с параметрами
+    app.config['test'].run(dictParameters)
+
 @app.route('/', methods=['GET', 'POST'])
 def upload_file():
     if request.method == 'POST':
         infoUser = {}
         infoUser['name'] = request.form['user']
         infoUser['mail'] = request.form['mail']
-
 
         listFile = request.files.getlist("file")
         log.info("Добовления изображения количества: "+str(len(listFile)))
@@ -37,6 +45,7 @@ def upload_file():
         app.config['workPhotos'].movePhoto('ID_' + str(app.config['ID']))
 
         pullInfoUser = json.dumps(infoUser)
+
         return redirect(url_for('infoUser', infoUser=pullInfoUser))
 
     return render_template("index.html")
@@ -44,5 +53,6 @@ def upload_file():
 
 @app.route('/info/<infoUser>')
 def infoUser(infoUser):
+    #serverFotoScan('ID_'+app.config['ID'])
     infoUser = json.loads(infoUser)
     return render_template("info.html", User_ID=app.config['ID'], infoUser=infoUser)

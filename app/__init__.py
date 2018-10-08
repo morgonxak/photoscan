@@ -4,7 +4,11 @@ from werkzeug.utils import secure_filename
 import config as conf
 from modulSettings import Settings
 from app.workWithPhotos import workPhotos
+from app import Server as PhotoscanServer
 
+host = 'localhost'
+port = 777
+addr = (host, port)
 
 pathFileSettings = 'app\settings'
 pachTempImage = r'app\static\images'
@@ -17,6 +21,15 @@ wphotos = workPhotos(pachTempImage, pachDirWork)
 ##Класс с настройками
 settings_obj = Settings(pathFileSettings)
 settings = settings_obj.getSettings()
+##
+
+def stastServerPhotoscan(addr):
+    test = PhotoscanServer.socketServer(addr)
+    test.runServer()
+    print("Сервер запушен")
+    return test
+
+#app.config['test'] = stastServerPhotoscan(addr)
 
 app.config['ID'] = settings['ID']
 print('Последний Id пользователя = ', settings['ID'])
