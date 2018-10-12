@@ -12,7 +12,8 @@ addr = (host, port)
 
 pathFileSettings = 'app\settings'
 pachTempImage = r'app\static\images'
-pachDirWork = r'processing_photoscan'
+#pachDirWork = r'processing_photoscan'
+pachDirWork = r'D:\dimaProject\Project photoscan ArcGis\data\processing_photoscan'
 
 app = Flask(__name__)
 ##Класс с работай с фотографиями

@@ -1229,3 +1229,136 @@ INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
 INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
 INFO:werkzeug:192.168.0.18 - - [28/Sep/2018 14:46:38] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:192.168.0.18 - - [28/Sep/2018 14:46:38] "GET /info/%7B%22name%22:%20%22%5Cu044c%5Cu0442%5Cu043e%22%2C%20%22mail%22:%20%22%5Cu0435%5Cu043f%5Cu0430%5Cu043d%22%2C%20%22lenPhoto%22:%2011%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 13:46:53] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 8
+INFO:root:Имя: <FileStorage: 'DJI_0001.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0002.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0003.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0004.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0005.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0006.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 13:47:36] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 13:47:36] "GET /info/%7B%22name%22:%20%22dima%22%2C%20%22mail%22:%20%22asas%22%2C%20%22lenPhoto%22:%208%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 13:50:50] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 7
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0012.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0013.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 13:51:01] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 13:51:01] "GET /info/%7B%22name%22:%20%22qqq%22%2C%20%22mail%22:%20%22ww%22%2C%20%22lenPhoto%22:%207%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:01:26] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 11
+INFO:root:Имя: <FileStorage: 'DJI_0003.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0004.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0005.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0006.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0012.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0013.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:01:37] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:01:37] "GET /info/%7B%22name%22:%20%22%22%2C%20%22mail%22:%20%22%22%2C%20%22lenPhoto%22:%2011%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\dimaProject\\Project photoscan ArcGis\\photoscan\\app\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:26:39] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 13
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0012.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0013.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0014.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0015.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0016.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0017.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0018.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0019.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:26:53] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:26:53] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:26:53] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:26:53] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:26:53] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:26:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:26:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 7
+INFO:root:Имя: <FileStorage: 'DJI_0014.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0015.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0016.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0017.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0018.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0019.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0020.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:29:36] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:29:36] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:29:36] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:29:36] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:29:36] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:29:36] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:29:36] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-154-241
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 15
+INFO:root:Имя: <FileStorage: 'DJI_0001.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0002.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0003.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0004.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0005.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0006.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0012.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0013.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0014.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0015.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:31:35] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:31:35] "GET /info/%7B%22name%22:%20%22%5Cu0414%5Cu0438%5Cu043c%5Cu0430%22%2C%20%22mail%22:%20%22Cmit.dima%40gmail.com%22%2C%20%22lenPhoto%22:%2015%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 14:31:37] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 3
+INFO:root:Имя: <FileStorage: 'DJI_0001.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0002.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0003.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 15:22:44] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 15:22:44] "GET /info/%7B%22name%22:%20%22%5Cu0414%5Cu0438%5Cu043c%5Cu0430%22%2C%20%22mail%22:%20%22Cmit.dima%40gmail.com%22%2C%20%22lenPhoto%22:%203%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 15:23:12] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 4
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 15:39:48] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 15:39:48] "GET /info/%7B%22name%22:%20%22dima%22%2C%20%22mail%22:%20%22ds%22%2C%20%22lenPhoto%22:%204%7D HTTP/1.1" 200 -

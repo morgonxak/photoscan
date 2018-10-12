@@ -18,7 +18,7 @@ class workPhotos:
         :param USER_ID:
         :return:
         '''
-        listDir = set()
+
         listDir = {'DEM', 'Ortopfoto', 'photo', 'DHM', 'report'}
 
         for nameDir in listDir:
@@ -29,6 +29,7 @@ class workPhotos:
     def movePhoto(self, USER_ID):
 
         files = os.listdir(self.pachTempImage)
+        print("количество фотографий ", len(files))
         for f in files:
             shutil.move(self.pachTempImage +'\/'+ f, self.pachDirWork+'\/'+ USER_ID + '\/' + 'photo')
 
