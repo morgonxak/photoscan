@@ -1,8 +1,17 @@
 import os
 import shutil
 
+'''
+класс для работы с файлами, создания рабочего котолога пользователя и перемещения туда фотографий
+'''
 class workPhotos:
+
     def __init__(self, pachTempImage, pachDirWork):
+        '''
+        Изициализация принимает каталог с начальными фото и кудда скинуть
+        :param pachTempImage:
+        :param pachDirWork:
+        '''
         self.pachTempImage = pachTempImage
         self.pachDirWork = pachDirWork
 

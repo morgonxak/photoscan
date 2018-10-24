@@ -1362,3 +1362,447 @@ INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
 INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
 INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 15:39:48] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [11/Oct/2018 15:39:48] "GET /info/%7B%22name%22:%20%22dima%22%2C%20%22mail%22:%20%22ds%22%2C%20%22lenPhoto%22:%204%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 14:58:33] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 2
+INFO:root:Имя: <FileStorage: 'tree.png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 15:00:50] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 15:00:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 15:00:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 15:00:51] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 15:00:51] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 15:00:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 15:00:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithPhotos.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 15:24:44] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 2
+INFO:root:Имя: <FileStorage: 'tree.png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 21:08:33] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 21:08:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 21:08:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 21:08:33] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 21:08:33] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 21:08:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2018 21:08:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 2
+INFO:root:Имя: <FileStorage: 'tree.png' ('image/png')>
+INFO:root:Имя: <FileStorage: 'загружено.png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:26] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:27] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:27] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:27] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:27] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:27] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:27] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:29] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 3
+INFO:root:Имя: <FileStorage: 'mrachnoe_derevo_v_nochi_7589.jpg' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'p00q183p.jpg' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'tree.png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:51] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:51] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:51] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:51] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:37:52] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:38:37] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 2
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:38:48] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:38:48] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:38:48] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:38:48] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:38:48] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:38:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:38:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:39:58] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:07] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:07] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:07] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:07] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:08] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:41] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 2
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:50] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:50] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:50] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:40:50] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:41:08] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:41:14] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:41:14] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:41:14] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:41:14] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:41:14] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:41:15] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:41:15] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:43:51] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 2
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:43:59] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:43:59] "GET /info/%7B%22name%22:%20%22q%22%2C%20%22mail%22:%20%22q%22%2C%20%22lenPhoto%22:%202%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:44:26] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:44:34] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:44:34] "GET /info/%7B%22name%22:%20%22s%22%2C%20%22mail%22:%20%22%5Cu044b%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:46:15] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:46:20] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:46:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:46:20] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:46:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:46:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:46:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:46:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:49:13] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:49:19] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:49:19] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:49:19] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:49:19] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:49:19] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:49:19] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:49:19] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:50:38] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:50:45] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:50:45] "GET /info/%7B%22name%22:%20%22qq%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:50:48] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:51:45] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:51:45] "GET /info/%7B%22name%22:%20%22qq%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:51:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:35] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:35] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:35] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:35] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:35] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:35] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:35] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:48] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:54] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 11:54:54] "GET /info/%7B%22name%22:%20%22qq%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:02] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:08] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:08] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:08] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:08] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:08] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:08] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:30] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:35] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:00:35] "GET /info/%7B%22name%22:%20%22qq%22%2C%20%22mail%22:%20%22%5Cu044b%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:01:15] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'загружено.png' ('image/png')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:01:23] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:01:23] "GET /info/%7B%22name%22:%20%22%5Cu0444%5Cu0444%22%2C%20%22mail%22:%20%22a%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:05:51] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:06:00] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:06:00] "GET /info/%7B%22name%22:%20%22%5Cu0444%5Cu0444%22%2C%20%22mail%22:%20%22a%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:07:35] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:07:41] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:07:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:07:41] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:07:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:07:41] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:07:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:07:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:11:23] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:11:29] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:11:29] "GET /info/%7B%22name%22:%20%22morgon08%40mail.ru%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:11:48] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:11:53] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:11:53] "GET /info/%7B%22name%22:%20%22%5Cu0444%5Cu0444%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:11:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:18] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:18] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:18] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:18] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:18] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:18] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:18] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:33] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:33] "GET /info/%7B%22name%22:%20%22morgon08%40mail.ru%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:20:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:21:34] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:21:34] "GET /info/%7B%22name%22:%20%22morgon08%40mail.ru%22%2C%20%22mail%22:%20%22%5Cu044b%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:28:51] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:28:56] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:28:56] "GET /info/%7B%22name%22:%20%22qq%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:38:20] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:38:27] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 12:38:28] "GET /info/%7B%22name%22:%20%22qq%22%2C%20%22mail%22:%20%22a%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\workWithDataBase.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:03:46] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:03:53] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:03:53] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:03:53] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:03:53] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:03:53] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:03:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:03:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:04:20] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:04:26] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:04:26] "GET /info/%7B%22name%22:%20%22morgon08%40mail.ru%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:04:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:08:50] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:08:50] "GET /info/%7B%22name%22:%20%22qq%22%2C%20%22mail%22:%20%22%5Cu044b%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:08:51] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:09:19] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:09:19] "GET /info/%7B%22name%22:%20%22%5Cu0444%5Cu0444%22%2C%20%22mail%22:%20%22dd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Oct/2018 13:09:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\admin\\PycharmProjects\\photoscan\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 10:04:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 10:04:59] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:root:Добовления изображения количества: 2
+INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 10:05:14] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 10:05:14] "GET /info/%7B%22name%22:%20%22%5Cu0434%5Cu0438%5Cu043c%5Cu0430%22%2C%20%22mail%22:%20%22%5Cu044b%5Cu0432%5Cu044b%5Cu0432%22%2C%20%22lenPhoto%22:%202%7D HTTP/1.1" 200 -

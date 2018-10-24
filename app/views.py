@@ -12,7 +12,6 @@ def allowed_file(filename):
            filename.rsplit('.', 1)[1] in app.config['ALLOWED_EXTENSIONS']
 
 
-
 def serverFotoScan(UserID):
 
     dictParameters = dict()
@@ -32,17 +31,22 @@ def upload_file():
         log.info("Добовления изображения количества: "+str(len(listFile)))
         infoUser['lenPhoto'] = len(listFile)
 
+        app.config['ID'] = app.config['ID'] + 1
+        app.config['DBObject'].editUserId(app.config['ID'])
+
+        ##Создаем рабочую дирикторию и перемещяем туда фотографии
+        app.config['workPhotos'].creatDir('ID_' + str(app.config['ID']))
+        app.config['DBObject'].pullData('treatment', [(app.config['ID'], 'Server', 'CreatDirProject', True)])
+
         for file in listFile:
             log.info("Имя: "+str(file))
             if file and allowed_file(file.filename):
                 filename = secure_filename(file.filename)
                 file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
 
-        app.config['ID'] = app.config['ID'] + 1
-        app.config['settings_obj'].change('ID', app.config['ID'])
-
-        app.config['workPhotos'].creatDir('ID_'+str(app.config['ID']))
         app.config['workPhotos'].movePhoto('ID_' + str(app.config['ID']))
+        app.config['DBObject'].pullData('treatment', [(app.config['ID'], 'Server', 'DowloadPhoto', True)])
+
 
         pullInfoUser = json.dumps(infoUser)
 
@@ -53,6 +57,5 @@ def upload_file():
 
 @app.route('/info/<infoUser>')
 def infoUser(infoUser):
-    #serverFotoScan('ID_'+app.config['ID'])
     infoUser = json.loads(infoUser)
     return render_template("info.html", User_ID=app.config['ID'], infoUser=infoUser)
