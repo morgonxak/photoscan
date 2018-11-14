@@ -1806,3 +1806,56 @@ INFO:root:Имя: <FileStorage: '100_0050.jpg' ('image/jpeg')>
 INFO:root:Имя: <FileStorage: '9869.jpg' ('image/jpeg')>
 INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 10:05:14] "POST / HTTP/1.1" 302 -
 INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 10:05:14] "GET /info/%7B%22name%22:%20%22%5Cu0434%5Cu0438%5Cu043c%5Cu0430%22%2C%20%22mail%22:%20%22%5Cu044b%5Cu0432%5Cu044b%5Cu0432%22%2C%20%22lenPhoto%22:%202%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:02:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:02:11] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'MRV_20180222_15_00_10.jpg' ('image/jpeg')>
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:02:36] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:02:36] "GET /info/%7B%22name%22:%20%22t-alenka%40inbox.ru%22%2C%20%22mail%22:%20%22kkk%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:16] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'MRV_20180222_15_00_10.jpg' ('image/jpeg')>
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:43] "POST / HTTP/1.1" 500 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:43] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:43] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:43] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:43] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:18:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-709-785
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:22:58] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 14
+INFO:root:Имя: <FileStorage: 'DJI_0001.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0002.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0003.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0004.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0005.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0006.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0007.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0008.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0009.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0010.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0011.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0012.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0013.JPG' ('image/jpeg')>
+INFO:root:Имя: <FileStorage: 'DJI_0014.JPG' ('image/jpeg')>
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:24:58] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 12:24:58] "GET /info/%7B%22name%22:%20%22dfd%22%2C%20%22mail%22:%20%22dfd%22%2C%20%22lenPhoto%22:%2014%7D HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 13:36:57] "GET / HTTP/1.1" 200 -
+INFO:root:Добовления изображения количества: 1
+INFO:root:Имя: <FileStorage: 'MRV_20180222_15_00_10.jpg' ('image/jpeg')>
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 13:38:13] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 13:38:13] "GET /info/%7B%22name%22:%20%22dfd%22%2C%20%22mail%22:%20%22dfd%22%2C%20%22lenPhoto%22:%201%7D HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.81 - - [12/Nov/2018 13:43:24] "GET / HTTP/1.1" 200 -
